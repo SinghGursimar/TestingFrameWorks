@@ -1,0 +1,60 @@
+11:53:44.581 [main] DEBUG base.TestBase - Object Repository file loaded
+11:53:48.010 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:03:15.313 [main] DEBUG base.TestBase - Config file loaded
+12:03:15.315 [main] DEBUG base.TestBase - Object Repository file loaded
+12:03:18.610 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:03:23.509 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:03:24.140 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:03:24.565 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:05:02.212 [main] DEBUG base.TestBase - Config file loaded
+12:05:02.214 [main] DEBUG base.TestBase - Object Repository file loaded
+12:05:05.478 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:05:09.915 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:07:31.888 [main] DEBUG base.TestBase - Config file loaded
+12:07:31.890 [main] DEBUG base.TestBase - Object Repository file loaded
+12:07:35.159 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:07:39.619 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:08:19.830 [main] DEBUG base.TestBase - Config file loaded
+12:08:19.832 [main] DEBUG base.TestBase - Object Repository file loaded
+12:08:23.117 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:08:26.591 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:09:31.741 [main] DEBUG base.TestBase - Config file loaded
+12:09:31.743 [main] DEBUG base.TestBase - Object Repository file loaded
+12:09:35.051 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:09:38.986 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:09:39.428 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:09:39.827 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:14:21.358 [main] DEBUG base.TestBase - Config file loaded
+12:14:21.360 [main] DEBUG base.TestBase - Object Repository file loaded
+12:14:24.663 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:21:28.339 [main] DEBUG base.TestBase - Config file loaded
+12:21:28.341 [main] DEBUG base.TestBase - Object Repository file loaded
+12:21:31.615 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:21:35.539 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:21:35.967 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:21:36.360 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:29:34.547 [main] DEBUG base.TestBase - Config file loaded
+12:29:34.549 [main] DEBUG base.TestBase - Object Repository file loaded
+12:29:37.897 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:29:41.777 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:29:42.190 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:29:42.608 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:30:45.069 [main] DEBUG base.TestBase - Config file loaded
+12:30:45.071 [main] DEBUG base.TestBase - Object Repository file loaded
+12:30:48.349 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:30:51.798 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:31:45.768 [main] DEBUG base.TestBase - Config file loaded
+12:31:45.770 [main] DEBUG base.TestBase - Object Repository file loaded
+12:31:49.046 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:31:52.300 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:31:52.967 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:31:52.983 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:32:59.068 [main] DEBUG base.TestBase - Config file loaded
+12:32:59.070 [main] DEBUG base.TestBase - Object Repository file loaded
+12:33:02.311 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:33:06.312 [main] DEBUG base.TestBase - Entering Add Customer Method
+12:33:06.753 [main] DEBUG base.TestBase - Customer added successfully with customer id :6
+12:33:07.135 [main] DEBUG base.TestBase - tear down initiated quitting browser
+12:36:20.419 [main] DEBUG base.TestBase - Config file loaded
+12:36:20.420 [main] DEBUG base.TestBase - Object Repository file loaded
+12:36:23.705 [main] DEBUG base.TestBase - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login

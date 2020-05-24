@@ -1,0 +1,6 @@
+12:06:39,730 DEBUG TestBase:50 - Config file loaded
+12:06:39,732 DEBUG TestBase:64 - Object Repository file loaded
+12:06:43,208 DEBUG TestBase:90 - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+12:06:44,437 DEBUG TestBase:12 - inside login test method
+12:06:47,512 DEBUG TestBase:15 - Login link clicked 
+12:06:47,559 DEBUG TestBase:101 - tear down initiated quitting browser
