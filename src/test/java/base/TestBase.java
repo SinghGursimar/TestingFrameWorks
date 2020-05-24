@@ -55,6 +55,7 @@ public class TestBase {
 	public static ExtentTest test;
 	public static SoftAssert sa = new SoftAssert();
 	public static WebElement dropdown;
+	public String extra;
 	//We want that this method is called before any Test Case in the the Suite
 	//so we will set it under the TESTNG annotation
 	
